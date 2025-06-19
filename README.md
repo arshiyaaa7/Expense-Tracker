@@ -1,6 +1,6 @@
-# 💰 Expense Tracker Application
+# 💰 Cointrail – Intelligent tracking. Personalized savings.
 
-A full-stack **Expense Tracker** web application built using **Java, Spring Boot, MySQL, Spring JPA, Hibernate, Tailwind CSS, and TypeScript**. The app allows users to manage their income and expenses with intuitive dashboards, visual charts, and secure authentication.
+A full-stack **Cointrail** web application built using **Java, Spring Boot, MySQL, Spring JPA, Hibernate, Tailwind CSS, and TypeScript**. The app allows users to manage their income and expenses with intuitive dashboards, visual charts, and secure authentication.
 
 ## 🚀 Features
 
